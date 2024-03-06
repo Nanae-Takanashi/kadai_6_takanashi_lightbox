@@ -172,6 +172,14 @@ h2 img{
     margin-bottom: 70px;
 }
 
+.lb-data .lb-caption {
+    color: #fff;
+}
+
+.lb-data .lb-number{
+    display: none !important;
+}
+
 /* .scroll img{
      width: 20%;
 } */
